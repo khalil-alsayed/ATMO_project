@@ -140,9 +140,9 @@ AUTEUR
 
 
 
-\- 📄 \[Project report (PDF)](report.pdf)
+\- 📄 \[Project report (PDF)](Rapport_atmo.pdf)
 
-\- 🎬 \[Demo video](demo.mp4)
+\- 🎬 \[Demo video](video_web_atmo.mp4)
 
 
 
